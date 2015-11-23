@@ -1,5 +1,6 @@
 # ProjectOmega
-#Tutorials
+<BR> http://www.greenbushlabs.com/codegroup
+# Tutorials
 <BR> Introduction: https://www.youtube.com/watch?v=kZXrrmorHgQ
 <BR> Intro to art: https://www.youtube.com/watch?v=aPu7KqCZhnw
 <BR> Intro to Blueprints: https://www.youtube.com/playlist?list=PLZlv_N0_O1gbYMYfhhdzfW1tUV4jU0YxH
@@ -21,7 +22,7 @@
 <BR> petzor00 
 <BR> 620-716-1254
 <BR> Tasks:
-<BR> <blockquote>Research Unreal Engine
+<BR> <blockquote>Research Unreal Engine</blockquote>
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
 <BR> <blockquote>Story Development</blockquote>
 <BR> <blockquote><blockquote>Use github and notepad to take notes that everyone can see.</blockquote></blockquote>
@@ -29,7 +30,7 @@
 <BR> NayCrusade 
 <BR> 620-716-1173
 <BR> Tasks:
-<BR> <blockquote>Research Unreal Engine
+<BR> <blockquote>Research Unreal Engine</blockquote>
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
 <BR> <blockquote>Story Development</blockquote>
 <BR> <blockquote><blockquote>Use github and notepad to take notes that everyone can see.</blockquote></blockquote>
