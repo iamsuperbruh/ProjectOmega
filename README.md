@@ -7,13 +7,13 @@
 # Chris Ramsey 
 <BR> iamsuperbruh 
 <BR> 620-870-8235
-<BR>  Tasks:
-<BR>  Research Unreal Engine
-<BR>  Gameplay Experimentation
+<BR> <b>Tasks:</b>
+<BR> Research Unreal Engine
+<BR> Gameplay Experimentation
 # Jacob Mund 
 <BR> Awesomee03 
 <BR> 620-688-2846
-<BR> Tasks:
+<BR> <b>Tasks:</b>
 <BR> <blockquote>Research Unreal Engine</blockquote>
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
 <BR> <blockquote>Gameplay Experimentation</blockquote>
@@ -21,15 +21,15 @@
 # Peter Spoon 
 <BR> petzor00 
 <BR> 620-716-1254
-<BR> Tasks:
+<BR> <b>Tasks:</b>
 <BR> <blockquote>Research Unreal Engine</blockquote>
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
 <BR> <blockquote>Story Development</blockquote>
 <BR> <blockquote><blockquote>Use github and notepad to take notes that everyone can see.</blockquote></blockquote>
-# Nathan Goodwin 
+# <b><u>Nathan Goodwin</b></u>
 <BR> NayCrusade 
 <BR> 620-716-1173
-<BR> Tasks:
+<BR> <b>Tasks:</b>
 <BR> <blockquote>Research Unreal Engine</blockquote>
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
 <BR> <blockquote>Story Development</blockquote>
