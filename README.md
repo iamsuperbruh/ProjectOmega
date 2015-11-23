@@ -23,7 +23,7 @@
 <BR> Tasks:
 <BR> <blockquote>Research Unreal Engine
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
-<BR> <blockquote>Story Development
+<BR> <blockquote>Story Development</blockquote>
 <BR> <blockquote><blockquote>Use github and notepad to take notes that everyone can see.</blockquote></blockquote>
 # Nathan Goodwin 
 <BR> NayCrusade 
@@ -31,5 +31,5 @@
 <BR> Tasks:
 <BR> <blockquote>Research Unreal Engine
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
-<BR> <blockquote>Story Development
+<BR> <blockquote>Story Development</blockquote>
 <BR> <blockquote><blockquote>Use github and notepad to take notes that everyone can see.</blockquote></blockquote>
