@@ -8,8 +8,8 @@
 <BR> iamsuperbruh 
 <BR> 620-870-8235
 <BR> <b>Tasks:</b>
-<BR> Research Unreal Engine
-<BR> Gameplay Experimentation
+<BR> <blockquote>Research Unreal Engine</blockquote>
+<BR> <blockquote>Gameplay Experimentation</blockquote>
 # Jacob Mund 
 <BR> Awesomee03 
 <BR> 620-688-2846
@@ -18,6 +18,12 @@
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
 <BR> <blockquote>Gameplay Experimentation</blockquote>
 <BR> <blockquote><blockquote>Use github to make sure all your progress is visible.</blockquote></blockquote>
+# Dane Rigby
+<BR> rigbycvhs
+<BR> 620-205-6816
+<BR> <b>Tasks:</b>
+<BR> <blockquote>Research Unreal Engine</blockquote>
+<BR> <blockquote>Gameplay Experimentation</blockquote>
 # Peter Spoon 
 <BR> petzor00 
 <BR> 620-716-1254
