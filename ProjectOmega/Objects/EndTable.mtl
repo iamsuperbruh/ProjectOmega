@@ -1,0 +1,11 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl BoxSpring
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.290864 0.208965 0.135113
+Ks 0.068966 0.068966 0.068966
+Ni 1.000000
+d 1.000000
+illum 2
