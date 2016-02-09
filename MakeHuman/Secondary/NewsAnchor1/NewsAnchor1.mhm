@@ -1,0 +1,35 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags NewsAnchor1
+face head-scale-depth-less-more -0.888000
+face forehead-trans-depth-forward-backward 0.580000
+face forehead-scale-vert-less-more -1.000000
+face head-scale-horiz-less-more 0.242000
+face forehead-nubian-less-more 0.678000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+hair mhair02 f81a4e9a-e3d7-4ecb-bdf0-16d7fd9070a4
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+eyebrows Eyebrow004 eb028b6d-3ff8-40c7-a2ea-4d9aa808b38d
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes malesuit01HRes c9df3c39-98e0-43d5-92ea-c48115c0e3a8
+clothes classicshoes_hres 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.500000
+macro Gender 1.000000
+macro Age 0.815000
+macro Height 0.500000
+macro Asian 0.333333
+macro African 0.333333
+macro Caucasian 0.333333
+macro Muscle 0.339000
+macro BodyProportions 0.065000
+background enabled False
+skinMaterial skins/young_asian_male/young_asian_male.mhmat
+material classicshoes_hres 6e0c552e-e207-44df-8f70-c9bfdeddd8c6 clothes/shoes01/materials/black_classicshoes.mhmat
+material mhair02 f81a4e9a-e3d7-4ecb-bdf0-16d7fd9070a4 hair/mhair02/materials/male02_black.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/green.mhmat
+skeleton basic.json
+subdivide False

@@ -1,0 +1,58 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags Main
+face r-cheek-bones-in-out 0.516000
+face nose-trans-depth-forward-backward -0.952000
+face neck-scale-vert-more-less 0.854000
+face r-ear-wing-out-in 0.758000
+face l-ear-wing-out-in 0.646000
+face chin-bones-in-out 0.580000
+face mouth-trans-forward-backward -0.258000
+face eyebrows-trans-depth-less-more 0.370000
+face nose-scale-horiz-incr-decr 0.370000
+face neck-scale-depth-less-more -0.112000
+face neck-scale-horiz-less-more -0.338000
+face eyebrows-trans-vert-less-more -0.322000
+face head-age-less-more -0.242000
+face neck-trans-horiz-in-out -0.080000
+face chin-prognathism-less-more 0.662000
+face chin-prominent-less-more 0.516000
+face nose-flaring-decr-incr 0.630000
+face l-cheek-bones-in-out 0.354000
+face head-angle-in-out -0.146000
+face mouth-scale-horiz-incr-decr 0.388000
+face nose-nostrils-angle-up-down -0.548000
+face nose-septumangle-decr-incr 0.032000
+face chin-height-min-max 0.130000
+face chin-width-min-max -0.388000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Shape04 3ef1e889-953a-4fbe-8862-ca1a9aa0a7ef
+hair mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053
+clothes Shirt01 c8c87311-c197-4bf8-9e01-fc05a308aee0
+clothes classic_shoes_lres 454af8ff-87e1-41b9-a84f-352f3b398082
+clothesHideFaces True
+gendered penis-testicles-min-max 0.064000
+gendered penis-length-min-max -0.032000
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.492000
+gendered penis-circ-min-max -0.032000
+macro Weight 0.508000
+macro Gender 1.000000
+macro Age 0.500000
+macro Height 0.500000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.540000
+macro BodyProportions 0.516000
+background enabled False
+skinMaterial skins/young_caucasian_female/young_caucasian_female_sweat.mhmat
+material classic_shoes_lres 454af8ff-87e1-41b9-a84f-352f3b398082 clothes/shoes01/materials/black_classicshoes.mhmat
+material mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95 hair/mhair01/materials/male01_black.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+skeleton basic.json
+subdivide False
