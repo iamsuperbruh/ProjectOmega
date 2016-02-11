@@ -42,3 +42,10 @@
 <BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
 <BR> <blockquote>Story Development</blockquote>
 <BR> <blockquote><blockquote>Use github and notepad to take notes that everyone can see.</blockquote></blockquote>
+# Payton Ward
+<BR> Presiderp
+<BR> 918-863-0487
+<BR> <b>Tasks:</b>
+<BR> <blockqoute> Voice Things </blockqoute>
+<BR> <blockqoute><blockqoute>I will try and get everything audio related.</blockquote></blockquote>
+<BR> <blockqoute> Musical Score Acquisition </blockquote>
