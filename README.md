@@ -45,6 +45,7 @@
 # Payton Ward
 <BR> Presiderp
 <BR> 918-863-0487
+<BR> paytonatr9@gmail.com
 <BR> <b>Tasks:</b>
 <BR> <blockqoute> Voice Things </blockqoute>
 <BR> <blockqoute><blockqoute>I will try and get everything audio related.</blockquote></blockquote>
