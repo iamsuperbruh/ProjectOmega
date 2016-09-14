@@ -12,20 +12,6 @@
 <BR> <b>Tasks:</b>
 <BR> <blockquote>Research Unreal Engine</blockquote>
 <BR> <blockquote>Gameplay Experimentation</blockquote>
-# Jacob Mund 
-<BR> Awesomee03 
-<BR> 620-688-2846
-<BR> <b>Tasks:</b>
-<BR> <blockquote>Research Unreal Engine</blockquote>
-<BR> <blockquote><blockquote>I will leave tutorials on github.</blockquote></blockquote>
-<BR> <blockquote>Gameplay Experimentation</blockquote>
-<BR> <blockquote><blockquote>Use github to make sure all your progress is visible.</blockquote></blockquote>
-# Dane Rigby
-<BR> rigbycvhs
-<BR> 620-205-6816
-<BR> <b>Tasks:</b>
-<BR> <blockquote>Research Unreal Engine</blockquote>
-<BR> <blockquote>Gameplay Experimentation</blockquote>
 # Peter Spoon 
 <BR> petzor00 
 <BR> 620-716-1254
@@ -44,7 +30,7 @@
 <BR> <blockquote><blockquote>Use github and notepad to take notes that everyone can see.</blockquote></blockquote>
 # Payton Ward
 <BR> Presiderp
-<BR> 918-863-0487
+<BR> 620-779-3192
 <BR> paytonatr9@gmail.com
 <BR> <b>Tasks:</b>
 <BR> <blockqoute> Voice Things </blockqoute>
