@@ -1,0 +1,115 @@
+//As the group leaves, Scott turns around and resumes his job. He begins stacking cans or some other obsolete task in the back of the store, such as sweeping. 
+//noise continues outside, but scott ignores it. Eventually, he hears the shop doors open and lots of muffled boots enter. 
+
+U.N. 1:
+*checks a section of the store* Clear!
+
+U.N. 2:
+*checks a different section* Clear!
+
+U.N. 3: 
+*checks section with Scott* Clerk!
+
+//he walks over to Scott
+U.N. 3
+: Come with me, sir. We’re here to escort you to safety.
+
+Scott:
+W-whats going on?
+
+U.N. 3:
+That’s not important. What’s important is that we move you to safety. Now let’s go!
+
+//Scott follows the soldiers outside of the store, where they lead him down the street. Along the way, the soldiers stop door to door to enter in, sweep the area, and return. Every now and then, they will be accompanied by a citizen or two. 
+
+Scott:
+Can someone please explain what’s going on? 
+  
+U.N. 3:
+You know the U.N. Meeting? 
+
+Scott:
+...what?
+
+U.N. 2: 
+Ya know, the one that’s been going for months to determine punishment for your country?
+
+
+
+
+Scott: 
+What did America do? 
+
+U.N. 1:
+..you’re joking, right? 
+
+U.N. 3: 
+*sigh* No, he isn’t. Your country nuked the Middle East. 
+
+Scott: 
+Wait what?! 
+
+U.N. 3: 
+It’s the truth. No one is sure why, it just….happened. That President Ramsay is bloody mad if you ask me...that’s why we’re here. To protect you from that...thing...you call a government. 
+
+Scott: 
+Okay...so where are we going? 
+
+U.N. 3: 
+Our temporary headquarters just on the outside of the town. We set up an area in which you’ll be staying until further notice. 
+
+Scott: 
+What’s gonna happen to me..? 
+
+U.N. 3: 
+You’ll be well taken care for, but you will be kept as a prisoner of war. You will not be allowed to leave camp unless permission is given. Don’t worry, you’re in good hands. 
+
+Scott: 
+How long will we be here?
+
+U.N. 3:
+Hard to tell at this point. Could be a few days. Could be a few months. We won’t really know until project Omega has initiated. 
+
+Scott: 
+What’s project Omega?
+
+U.N. 3: 
+Heh. Now that is classified kid. Maybe one day you’ll find out. 
+//by now, they have reached the outskirts of the base. Quickly assembled  walls surround a large open area. We can see guards crawling around, packages being unloaded and large tents being set up. In the center of the base, there what appears to be a large communications disk towering high up into the air. 
+
+U.N. 3: 
+Here we are. Your new home for awhile. 
+
+//The troops lead them to the entrance of the base, where two large doors open. The citizens are grouped with even more citizens that have already been gathered. Around 50 people are present. 
+
+//after awhile of waiting, an important looking man steps up to a platform overlooking the people. 
+
+Commander Farragut: 
+Greetings. I am Commander Farragut. I am the leader of this fine establishment and I expect each and every one of you to respect me as such. Here in my camp, you will be kept as prisoners of war. You shall be fed, given proper warmth, bedding, and entertainment. Your rights end there. You are not allowed to leave camp or misbehave in anyway. For now, there will be further instruction after breakfast tomorrow. For now, get some rest. Lieutenant Payton will show you to your quarters. 
+
+//the people follow a man to a large tent to the left. Inside, there are bunk beds lining the walls. Not much else. Scott walks over to one. 
+
+//Scott climbs into top bunk. A blonde haired man choses the bunk below him. Before he does, he offers his hand to Scott
+
+Peter: 
+Hey. My names Peter! Looks like we’ll be bunk mates for however long we’re stuck here!
+
+CHOICE 1:
+//Scott takes his hand. 
+
+Scott:
+I’m Scott. 
+
+Peter: 
+Pleasure to meet ya Scott! I guess we better get some rest. Sleep tight. 
+
+//Scott leans back. Camera Darkens
+
+
+CHOICE 2:
+//Scott remains silent
+
+Peter:
+Alright then…
+
+//Scott leans back. Camera Darkens
