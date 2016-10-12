@@ -1,6 +1,5 @@
 # ProjectOmega
 <BR> <b>Rich's Website </b>http://www.greenbushlabs.com/codegroup
-<BR> <b>Unreal Engine Download </b>https://accounts.unrealengine.com/register/index?state=%2Fdownload%3Fdismiss%3Dhttps%253A%252F%252Fwww.unrealengine.com%252Fwhat-is-unreal-engine-4&client_id=43e2dea89b054198a703f6199bee6d5b
 <BR> <b>Blender Download </b>http://www.blender.org/download/
 # Tutorials
 <BR> Introduction: https://www.youtube.com/watch?v=kZXrrmorHgQ
